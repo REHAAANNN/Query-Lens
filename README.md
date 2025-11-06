@@ -42,12 +42,12 @@ export default defineConfig([
 
     ## Quick start — local development
 
-    1. Clone the repo
+1. Clone the repo
 
-       git clone <your-repo-url>
-       cd dbms_project
-
-    2. Install dependencies
+```bash
+git clone https://github.com/REHAAANNN/Query-Lens.git
+cd Query-Lens
+```    2. Install dependencies
 
     ```powershell
     npm install
