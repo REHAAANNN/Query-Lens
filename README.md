@@ -170,3 +170,4 @@ cd Query-Lens
     - Add a short demo GIF or screenshots to the README
 
     Tell me which of these you'd like me to add next and I'll implement it.
+
